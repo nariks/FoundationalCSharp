@@ -1,0 +1,14 @@
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/bin/Debug/net7.0/DiceGame
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/bin/Debug/net7.0/DiceGame.deps.json
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/bin/Debug/net7.0/DiceGame.runtimeconfig.json
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/bin/Debug/net7.0/DiceGame.dll
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/bin/Debug/net7.0/DiceGame.pdb
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/DiceGame.AssemblyInfoInputs.cache
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/DiceGame.AssemblyInfo.cs
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/DiceGame.csproj.CoreCompileInputs.cache
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/DiceGame.dll
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/refint/DiceGame.dll
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/DiceGame.pdb
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/DiceGame.genruntimeconfig.cache
+/Users/yuminary/Documents/Coding/CSharp/FoundationalC#/Module2/DiceGame/obj/Debug/net7.0/ref/DiceGame.dll
