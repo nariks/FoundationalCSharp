@@ -227,10 +227,6 @@ do
                 ourAnimals[petCount, 4] = "Physical description: " + animalPhysicalDescription;
                 ourAnimals[petCount, 5] = "Personality description: " + animalPersonalityDescription;
                
-
-
-
-
                 petCount += 1;
 
                 do 
